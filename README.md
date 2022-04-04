@@ -1,4 +1,4 @@
-# Apollo 2020
+# [Apollo 2020](https://nomadcoders.co/react-graphql-for-beginners/lobby)
 
 Movie App built with React, Apollo and GraphQL
 
